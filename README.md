@@ -5,7 +5,7 @@ Analysis pipeline for pre-treatment serum proteomic prediction of rTMS/iTBS resp
 Analysis code for the manuscript:
 
 > **Pre-treatment serum proteomic markers of response and remission to intermittent theta-burst stimulation in treatment-resistant depression: an exploratory study.**
-> *Tesliuk A, Valiulis V, Kaupinis A, Germanavičius A, Navakauskienė R, Valiulienė G. Journal, year, and DOI to be added.*
+> *Tesliuk A, Valiulis V, Kaupinis A, Germanavičius A, Valius M, Navakauskienė R, Valiulienė G. Journal, year, and DOI to be added.*
 
 This repository contains the complete, single-file Python pipeline that reproduces
 every statistical result, figure, and supplementary table in the paper.
